@@ -1,0 +1,59 @@
+projectName: Dropshipping
+jsonFilePath: ./input.json
+baseUrl: https://webdrop.fr
+portalHeading: Plateforme de synchronisation avec des fournisseurs en France
+portalDescription: >-
+  Livraison rapide & direct chez vos clients. Synchronisez-vous sur Prestashop,
+  Dropizi, Wizishop, WooCommerce, Shopify et/ou eBay. Stocks & commandes
+  actualisés en temps réel.
+portalTitle: Dropshipping - l'e-commerce en dropshipping fournisseur en France et en Europe
+searchPlaceholder: Rechercher des produits...
+useAlphabetsCategory: true
+homeLink: https://webdrop.fr/
+logoLink: https://webdrop.fr/
+ctaText: Get Started
+aboutLink: https://webdrop.fr/devenir-fournisseur-dropshipping/
+productsLink: https://webdrop.fr/tarifs-dropshipping-webdrop/
+logoImgUrl: >-
+  https://webdrop.fr/wp-content/uploads/2018/06/webdrop-ecommerce-dropshipping.png
+ctaLink: https://appsync.webdrop-market.com/register
+copyrightText: © Copyright 2016 - 2021 - Tous droits réservés.
+faviconUrl: https://webdrop.fr/wp-content/uploads/fbrfg/favicon-32x32.png
+googleTagManagerId: G-LP2W7GBVNX
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: Facebook
+    url: https://www.facebook.com/webdropfrance
+  - platform: Twitter
+    url: https://twitter.com/webdropfrance
+  - platform: Pinterest
+    url: https://www.pinterest.fr/webdrop/
+  - platform: Tumblr
+    url: https://www.tumblr.com/blog/webdrop-france
+theme:
+  primaryColor: '#4A90E2'
+  secondaryColor: '#FAFAFA'
+  backgroundColor: '#ffffff'
+  textColor: '#252525'
+  accentColor: '#00a0d2'
+fonts:
+  - family: Inter
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Cardo
+    weights:
+      - 400
